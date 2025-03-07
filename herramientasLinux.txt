@@ -1,0 +1,5 @@
+rsync 🖧
+Es una herramienta de sincronización de archivos y directorios. Se usa para copiar archivos de manera eficiente, ya sea localmente o a través de una red.
+
+ncdu (NCurses Disk Usage) es una herramienta de línea de comandos que sirve para analizar el uso del disco de manera interactiva y visual en la terminal. Es una alternativa más amigable y rápida que du para ver qué archivos y carpetas están ocupando más espacio.
+
